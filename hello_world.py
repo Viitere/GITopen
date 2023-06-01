@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 
 # This program prints Hello, world!
 
